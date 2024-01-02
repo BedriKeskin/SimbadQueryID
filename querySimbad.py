@@ -21,4 +21,4 @@ gaiaDR3ID = SimbadQueryID("kic7972785", 'DR3')
 if gaiaDR3ID is not None:
     print(gaiaDR3ID)
 else:
-    print("bulunamadı")
+    print("not found")
